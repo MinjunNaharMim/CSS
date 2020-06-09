@@ -1,0 +1,15 @@
+.gradient-style{
+	
+	height:400px;
+	width:100%;
+	background-image:radial-gradient(circle, green,orange,blue,yellow);
+
+}
+
+.gradient-circle{
+	
+	height:400px;
+	width:100%;
+	background-image:linear-gradient(to top, green,orange,blue,yellow);
+
+}

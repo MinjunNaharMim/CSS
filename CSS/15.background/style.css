@@ -1,0 +1,7 @@
+body{
+	background-image:url("back.jpg.jpg");
+	background-repeat:no-repeat;
+	background-position:top right;
+	background-attachment:fixed;
+	background: #fff url("back.jpg.jpg") no-repeat top right fixed;
+}
